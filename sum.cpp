@@ -6,7 +6,7 @@ int sum(int n){
     for (i=1; i<(n+1); i++)
         res += i;
     
-    return res
+    return res;
 }
 
 
